@@ -1,0 +1,132 @@
+[
+    {
+        "key": "obl-bryansk",
+        "section": true,
+        "label": "Брянская область"
+    },
+    {
+        "key": "bryansk",
+        "label": "Брянск"
+    },
+    
+    {
+        "key": "obl-vladimir",
+        "section": true,
+        "label": "Владимирская область"
+    },
+    {
+        "key": "murom",
+        "label": "Муром"
+    },
+
+    {
+        "key": "obl-kaluga",
+        "section": true,
+        "label": "Калужская область"
+    },
+    {
+        "key": "kaluga",
+        "label": "Калуга"
+    },
+    {
+        "key": "obninsk",
+        "label": "Обнинск"
+    },
+
+    {
+        "key": "obl-kostroma",
+        "section": true,
+        "label": "Костромская область"
+    },
+    {
+        "key": "kostroma",
+        "label": "Кострома"
+    },
+    {
+        "key": "vohma",
+        "label": "Вохма"
+    },
+
+    {
+        "key": "obl-kursk",
+        "section": true,
+        "label": "Курская область"
+    },
+    {
+        "key": "kursk",
+        "label": "Курск"
+    },
+
+    {
+        "key": "obl-nizh",
+        "section": true,
+        "label": "Нижегородская область"
+    },
+    {
+        "key": "nizh",
+        "label": "Нижний Новгород"
+    },
+    {
+        "key": "dzerzhinsk",
+        "label": "Дзержинск"
+    },
+    {
+        "key": "vyksa",
+        "label": "Выкса"
+    },
+    {
+        "key": "arzamas",
+        "label": "Арзамас"
+    },
+
+    {
+        "key": "obl-orel",
+        "section": true,
+        "label": "Орловская область"
+    },
+    {
+        "key": "orel",
+        "label": "Орёл"
+    },
+
+    {
+        "key": "obl-mordva",
+        "section": true,
+        "label": "Республика Мордовия"
+    },
+    {
+        "key": "saransk",
+        "label": "Саранск"
+    },
+
+    {
+        "key": "obl-ryazan",
+        "section": true,
+        "label": "Рязанская область"
+    },
+    {
+        "key": "ryazan",
+        "label": "Рязань"
+    },
+
+    {
+        "key": "obl-smolensk",
+        "section": true,
+        "label": "Смоленская область"
+    },
+    {
+        "key": "smolensk",
+        "label": "Смоленск"
+    },
+
+    {
+        "key": "obl-tula",
+        "section": true,
+        "label": "Тульская область"
+    },
+    {
+        "key": "tula",
+        "label": "Тула"
+    }
+    
+]
